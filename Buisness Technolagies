@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+    <body>
+
+        <h1>Happy Birthday</h1> 
+
+    <style>   
+     
+     h1{color:rgb(207, 35, 207);}
+     
+     body{background-color:rgb(55, 232, 220);}
+     
+     </style>
+     <h2>hello friend i am with you till the end        </h2>
+     <p>even when we are dead. Even when you are being to dumb, I will be there to watch the fun  </p>
+     <img src="https://www.kasandbox.org/programming-images/avatars/marcimus.png" alt="a big purple blob with a face" width="168">
+    </body>
+</html>
